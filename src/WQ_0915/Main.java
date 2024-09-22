@@ -1,3 +1,5 @@
+package WQ_0915;
+
 import java.math.BigDecimal;
 
 public class Main {
